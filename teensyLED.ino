@@ -13,7 +13,7 @@
  * [security sift]http://www.securitysift.com/fun-with-teensy/
  *
  * (c) 2015 Filip Lueneberg
- * Licensed under GPLv3
+ * Licensed under GPLv2
  */
 
 /**
