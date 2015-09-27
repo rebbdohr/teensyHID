@@ -1,6 +1,6 @@
 /* 
 Teachable Moment via USB Devices
-Licensed under GPL v3
+Licensed under GPL v2
 (c) 2015 Filip Lueneberg
 */
 unsigned int dip1 = 12;
